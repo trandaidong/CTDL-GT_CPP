@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 bool solve[1000001];
-int n_max = 10000001;
+int n_max = 1000000;
 void sang() {
 	for (int i = 0; i <= n_max; i++) {
 		solve[i] = true;
