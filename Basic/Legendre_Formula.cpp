@@ -1,3 +1,4 @@
+//Công thức Legendre là biểu thức tính số mũ của lũy thừa lớn nhất của số nguyên tố p mà là ước của n!
 #include <iostream>
 using namespace std;
 
